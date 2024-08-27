@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.exe_02;
 import android.content.DialogInterface;
 import android.graphics.Color;
 import android.graphics.Typeface;
