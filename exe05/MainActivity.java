@@ -13,8 +13,8 @@ public class MainActivity extends AppCompatActivity {
 private EditText usernameEditText;
 private EditText idEditText;
 private Button validateButton;
-private static final String CORRECT_USERNAME = "Yoges";
-private static final String CORRECT_PASSCODE = "1511";
+private static final String CORRECT_USERNAME = "Abdul";
+private static final String CORRECT_PASSCODE = "1911";
 @Override
 protected void onCreate(Bundle savedInstanceState) {
 super.onCreate(savedInstanceState);
